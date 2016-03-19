@@ -5,3 +5,5 @@ Inspired by Ashley Williams' great [breakfast-repo](https://github.com/ashleygwi
 While I don't usually have enough time for a video during my coffee and breakfast, I try to squeeze one in during lunch to learn a thing or two, thus the name. 
 
 [Alex Russell - Progressive Web Apps](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile)
+
+[Stephan Bönnemann - We fail to follow SemVer - and why it needn't matter](https://www.youtube.com/watch?v=tc2UgG5L7WM)
