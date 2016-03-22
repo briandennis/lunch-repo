@@ -15,3 +15,5 @@ While I don't usually have enough time for a video during my coffee and breakfas
 ## ES6
 
 [Ryan Christiani - Let's Learn ES6 Playlist](https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
+
+[Axel Rauschmayer - Using ECMAScript 6 Today](https://www.youtube.com/watch?v=Fg3bEZIcnUw)
