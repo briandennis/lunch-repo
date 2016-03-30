@@ -12,7 +12,11 @@ While I don't usually have enough time for a video during my coffee and breakfas
 
 [Vojta Jina - Dependency Injection](https://www.youtube.com/watch?v=_OGGsf1ZXMs&list=PLS1cYe5xBIhXTlVOuWMtbuBpqKVgnIOJb&index)
 
-## ES6
+## Javascript Channels
+
+[Kyle Robinson Young](https://www.youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg)
+
+## ES6 Specifically
 
 [Ryan Christiani - Let's Learn ES6 Playlist](https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 
