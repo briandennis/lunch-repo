@@ -14,6 +14,8 @@ While I don't usually have enough time for a video during my coffee and breakfas
 
 [Vojta Jina - Dependency Injection](https://www.youtube.com/watch?v=_OGGsf1ZXMs&list=PLS1cYe5xBIhXTlVOuWMtbuBpqKVgnIOJb&index)
 
+[Jafar Husain - Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc)
+
 ## Javascript Channels
 
 [Kyle Robinson Young](https://www.youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg)
