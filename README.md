@@ -18,6 +18,8 @@ While I don't usually have enough time for a video during my coffee and breakfas
 
 [Jafar Husain - Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc)
 
+[Jeremy Fairbank - The Rise of Async JavaScript] (https://www.youtube.com/watch?v=QtgR94Q2pt4)
+
 ## Javascript Channels
 
 [Kyle Robinson Young](https://www.youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg)
