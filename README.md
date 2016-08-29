@@ -19,3 +19,5 @@ While I don't usually have enough time for a video during my coffee and breakfas
 [Jafar Husain - Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc)
 
 [Jeremy Fairbank - The Rise of Async JavaScript] (https://www.youtube.com/watch?v=QtgR94Q2pt4)
+
+[Sebastian Markbåge - Minimal API Surface Area] (https://www.youtube.com/watch?v=4anAwXYqLG8&list=WL&index=86)
