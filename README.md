@@ -4,8 +4,6 @@ Inspired by Ashley Williams' great [breakfast-repo](https://github.com/ashleygwi
 
 While I don't usually have enough time for a video during my coffee and breakfast, I try to squeeze one in during lunch to learn a thing or two, thus the name.
 
-## Web Dev
-
 [Alex Russell - Progressive Web Apps](https://www.oreilly.com/ideas/progressive-web-apps-and-whats-next-for-mobile)
 
 [Jafar Husain - Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc&list=PLS1cYe5xBIhXTlVOuWMtbuBpqKVgnIOJb&index=21)
