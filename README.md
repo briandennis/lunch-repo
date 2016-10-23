@@ -23,3 +23,5 @@ While I don't usually have enough time for a video during my coffee and breakfas
 [Lee Byron - Immutable User Interfaces] (https://vimeo.com/166790294)
 
 [Bob Martin - The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc&list=WL)
+
+[Matt Ranney - What I Wish I Had Known Before Scaling Uber to 1000 Services](https://www.youtube.com/watch?v=kb-m2fasdDY)
