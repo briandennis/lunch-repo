@@ -29,3 +29,5 @@ If you like this, you will probably also like [this](https://github.com/jakedex/
 [Matt Ranney - What I Wish I Had Known Before Scaling Uber to 1000 Services](https://www.youtube.com/watch?v=kb-m2fasdDY)
 
 [Scott Wlaschin - Functional programming design patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
+
+[Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
