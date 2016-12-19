@@ -31,4 +31,5 @@ If you like this, you will probably also like [this](https://github.com/jakedex/
 [Scott Wlaschin - Functional programming design patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
 
 [Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
+
 [Ashley Williams - A Brief History and Mishistory of Modularity](https://www.youtube.com/watch?v=LfOVyNQK5io)
