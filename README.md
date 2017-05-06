@@ -18,11 +18,11 @@ If you like this, you will probably also like [this](https://github.com/jakedex/
 
 [Jafar Husain - Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc)
 
-[Jeremy Fairbank - The Rise of Async JavaScript] (https://www.youtube.com/watch?v=QtgR94Q2pt4)
+[Jeremy Fairbank - The Rise of Async JavaScript](https://www.youtube.com/watch?v=QtgR94Q2pt4)
 
-[Sebastian Markbåge - Minimal API Surface Area] (https://www.youtube.com/watch?v=4anAwXYqLG8&list=WL&index=86)
+[Sebastian Markbåge - Minimal API Surface Area](https://www.youtube.com/watch?v=4anAwXYqLG8&list=WL&index=86)
 
-[Lee Byron - Immutable User Interfaces] (https://vimeo.com/166790294)
+[Lee Byron - Immutable User Interfaces](https://vimeo.com/166790294)
 
 [Bob Martin - The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc&list=WL)
 
