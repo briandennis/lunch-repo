@@ -1,4 +1,6 @@
 # lunch-repo
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriandennis%2Flunch-repo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriandennis%2Flunch-repo?ref=badge_shield)
+
 
 Inspired by Ashley Williams' great [breakfast-repo](https://github.com/ashleygwilliams/breakfast-repo), this is a list of tech/programming videos I found interesting, enlightening, insert other buzzwords. Stored here for your pleasure becuase I got sick of trying to remember them all. 
 
@@ -33,3 +35,7 @@ If you like this, you will probably also like [this](https://github.com/jakedex/
 [Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 
 [Ashley Williams - A Brief History and Mishistory of Modularity](https://www.youtube.com/watch?v=LfOVyNQK5io)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriandennis%2Flunch-repo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriandennis%2Flunch-repo?ref=badge_large)
